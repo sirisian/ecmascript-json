@@ -1,0 +1,2 @@
+# json
+A JSON variant
