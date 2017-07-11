@@ -11,7 +11,7 @@ This is a WIP of various ideas. Current ideas here might conflict or be unworkab
 * Typed keys using "name:Type: value" syntax
 * Types:
 
-```js
+```
 number
 bool
 string
