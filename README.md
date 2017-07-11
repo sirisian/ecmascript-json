@@ -53,3 +53,9 @@ void
 	12.2:float32: `foo` /* values don't have to match the type */
 }
 ```
+
+ECMAScript syntax:
+```js
+JSON.encode({});
+JSON.decode(`{}`);
+```
